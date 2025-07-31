@@ -23,7 +23,7 @@ This project centers on identifying gender discrimination in the palmoria group 
 ### Average Salary In each Location Based On Department And Gender
     Visuals: Column Bar-Chart
 
-    ![image alt]()
+![image alt](https://github.com/Vicchisco/Palmoria-group-project/blob/main/Screenshot%202025-07-31%20040258.png?raw=true)
     
 ## Insight From Analysis
 •	The "male gender" constitutes approximately 49.15% of the gender distribution within the organization, making it the largest gender group among the three categories.
