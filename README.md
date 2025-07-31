@@ -18,7 +18,13 @@ This project centers on identifying gender discrimination in the palmoria group 
 ### Ratings By Gender
     Visuals: Stacked Bar-chart
 
-![image alt]()    
+![image alt](https://github.com/Vicchisco/Palmoria-group-project/blob/main/Screenshot%202025-07-31%20033255.png?raw=true)  
+
+### Average Salary In each Location Based On Department And Gender
+    Visuals: Column Bar-Chart
+
+    ![image alt]()
+    
 ## Insight From Analysis
 •	The "male gender" constitutes approximately 49.15% of the gender distribution within the organization, making it the largest gender group among the three categories.
 •	Only approximately 30.87% of employees earn at or above the minimum salary requirement, indicating a significant gap in salary compliance.
