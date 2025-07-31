@@ -10,6 +10,9 @@ This project centers on identifying gender discrimination in the palmoria group 
 • I unpivoted columns to restructure the dataset for better analysis.
 • I created conditional columns to generate specific outputs based on defined criteria.
 ## Data Visualisation
+### Gender Distribution across Departments and regions:
+Visuals: Column Bar-Chart
+![image alt] (https://github.com/Vicchisco/Palmoria-group-project/blob/main/Screenshot%202025-07-31%20030529.png?raw=true)
 
 ## Insight From Analysis
 •	The "male gender" constitutes approximately 49.15% of the gender distribution within the organization, making it the largest gender group among the three categories.
