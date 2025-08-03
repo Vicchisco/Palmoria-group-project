@@ -37,7 +37,7 @@ This project centers on identifying gender discrimination in the palmoria group 
 ## Bonus, New Salary and Total Bonus per Region
    Visuals: Table and Pie-Chart
 
-![image alt]()
+![image alt](https://github.com/Vicchisco/Palmoria-group-project/blob/main/10%20palmora.png?raw=true)
 ## Total Amount to be Paid Out Per Region and Company-wide
    Visuals: Funnel Chart and Card
 
