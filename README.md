@@ -24,6 +24,26 @@ This project centers on identifying gender discrimination in the palmoria group 
     Visuals: Column Bar-Chart
 
 ![image alt](https://github.com/Vicchisco/Palmoria-group-project/blob/main/Screenshot%202025-07-31%20040258.png?raw=true)
+
+## Salary Expectations From Manfacturing Company
+   Visuals: Pie-Chart
+   
+![image alt](https://github.com/Vicchisco/Palmoria-group-project/blob/main/8%20palmora.png?raw=true)
+## Number OF Employee Per Pay Band
+   Visuals: Table And Clustered Bar-Chart
+   
+![image alt]()
+
+## Bonus, New Salary and Total Bonus per Region
+   Visuals: Table and Pie-Chart
+
+![image alt]()
+## Total Amount to be Paid Out Per Region and Company-wide
+   Visuals: Funnel Chart and Card
+
+![image alt]()
+
+
     
 ## Insight From Analysis
 •	The "male gender" constitutes approximately 49.15% of the gender distribution within the organization, making it the largest gender group among the three categories.
