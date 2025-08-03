@@ -47,6 +47,8 @@ This project centers on identifying gender discrimination in the palmoria group 
     
 ## Insight From Analysis
 •	The "male gender" constitutes approximately 49.15% of the gender distribution within the organization, making it the largest gender group among the three categories.
-•	Only approximately 30.87% of employees earn at or above the minimum salary requirement, indicating a significant gap in salary compliance.
-•	The "Special Gender" category has the highest average salary across regions and most departments.
+	The the payment of 90k and above was not fully adhere to by palmoria as about 654 staffs still recieves payment less than that. Only approximately 30 employees earn     at or above the minimum salary requirement, indicating a significant gap in salary compliance.The "Special Gender" category has the highest average salary across         regions and most departments. The total income to be paid out to staffs in Lagos , Abuja and Kaduna is about 20million, 25million and 27million respectively. And the total salary plus bonus payout company-wide is 72million respectively. 
+
+In conclusion, the Palmoria group can use the insight gotten from the analysis to solve the issue regarding gender dispute and also try to measure up to the salary expectation standard for manufacturing companies where they are seriously lacking.
+
 
