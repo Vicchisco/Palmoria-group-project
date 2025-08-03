@@ -41,7 +41,7 @@ This project centers on identifying gender discrimination in the palmoria group 
 ## Total Amount to be Paid Out Per Region and Company-wide
    Visuals: Funnel Chart and Card
 
-![image alt]()
+![image alt](https://github.com/Vicchisco/Palmoria-group-project/blob/main/11%20palmora.png?raw=true)
 
 
     
