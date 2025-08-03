@@ -32,7 +32,7 @@ This project centers on identifying gender discrimination in the palmoria group 
 ## Number OF Employee Per Pay Band
    Visuals: Table And Clustered Bar-Chart
    
-![image alt]()
+![image alt](https://github.com/Vicchisco/Palmoria-group-project/blob/main/9%20palmora.png?raw=true)
 
 ## Bonus, New Salary and Total Bonus per Region
    Visuals: Table and Pie-Chart
